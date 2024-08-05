@@ -14,8 +14,8 @@ tags: ["Overview", "Product", "Chainguard Images", "CVE"]
 images: []
 menu:
   docs:
-    parent: "chainguard-images"
-weight: 030
+    parent: "security-advisories"
+weight: 010
 toc: true
 ---
 
